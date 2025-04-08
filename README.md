@@ -10,3 +10,7 @@ hc-110 (old formula)
 color
 CS41 color simplified
 CS6 dynamic chrome
+
+current scanners
+nikon coolscan v (135)
+epson precision v800 (all formats)
