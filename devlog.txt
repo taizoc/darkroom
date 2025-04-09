@@ -152,3 +152,6 @@ CS6 032725 C01T1R1,2
 CS6 040725 C03T1R1,2
   old fuji velvia, mine and toxi's
   1+3 dilution, 13.5 min, ag in bath, 44 degrees
+
+ROD 040825 T1R1,2 hp5 at 1600. 1+25 12 mins
+
