@@ -1,54 +1,92 @@
 # devlog
 
-CS41 081124 T2C11R1-3 4.27 mins
-  Ujin rolls (2)
-  me @ cft
+ROD 040825 T1R1,2 hp5 at 1600. 1+25 12 mins
 
-CS41 081124 T3C14R1-2 white tape tank 4.48 min
-  ujin roll
-  knabe roll
+CS6 040725 C03T1R1,2
+  old fuji velvia, mine and toxi's
+  1+3 dilution, 13.5 min, ag in bath, 44 degrees
 
-CS41 081124 T4C16R1-3 CFT XA , Hiyu, steel tank 
-  4.62 min
+Out of CS6 chems (1st dev) mixing new chems 3/24/25
+# all new chems
 
-CS41 081924 T1C19R1-3
-  Knabe roll & Ikonta (focused) Noah b-day  
-  gold 200, Big 4 ice caves, Canon A2E
-  3.5x1.38=4min47~ seconds
-  stick agitation
+CS6 032725 C01T1R1,2
+  expired & badly stored e100 from skunk
+  fresh flicfilm respool 
+  44.5 degree bath. Agitation IN BATH constant
 
-CS41 0821(2)24 T1C22R1-3
-  Toxi rolls: 
-  Kodacolor exp 1978
-  Konica Minolta rollAgfa roll from Yakima TSC
-  Room temp stand dev, 50 min x 1.44=36 min agitate 36 min
+CS6 030625 C05Rev13T1R1
+  (Bath) temp @ 44 degrees, Dev ~30 seconds more than 9:15. Reversal @ 10 mins. Blix @10 mins
 
-CS41 082624 T1C25R1,R2 2.75min x 1.50
-  Phoenix shot @ 100 4.125 min
-  Fujicolor 400 @ 200 ~4 min 78 seconds
+CS6 030425 C03T1R1,2
+  Ujin's Velvia that I gave & E100. 
+  Will decide on dynamic dev & reversal confidence once I see results of first rolls
+    A) Very dark E100. TOo dilute or old chems? Phoenix was a waste. 
 
-CS41 082924 T1C27R1-3
-  2x fujicolor 400 5.39 min
-  1x CS400 ~5min 22 seconds
+CS6 030425 C01T1R1,2
+  Flicfilm Chrome, Phoenix @ ~125
+  Will leave it in Dev & Reversal bath for slightly too long. 
+  1+2 first dev
 
-HC110b 082924 T2R1  
-  6min dev, 266ml + 8.6ml
-  22 degrees 2013 HC110 old, cylinder, not syringe
+New CS6 Chems; last batch mixed 14 weeks ago. 
+Dynamic slide chems from the dude who sold me the V800, unknown date. When mixed, turned dark abmer. 
+Re-using old (14wk reversal bath (C08), against reccs of instructions (6-12 wk)
 
-HC110b 090924 T1R1,2
-  6 min, Skunk K100 roll, Canon FTb Lucas Racc
+HC110B 030125 T1R1
+  HP5+ @ cc's pronto's point & shoot 
+  6 min 30 seconds; Ilfotec HC times, not Kodak (which I)
 
-HC110b 092524 T1 4x5 5 min 560ml
+ROD 022325 T1R1 
+  Ortho 80 @ 800
+  Autumn's recc, HC110B 68 degrees f 13 min
+  Stock time 6 mins, user submmitted time 8 min
+  Rodinal 1+25 7 min x 3 = 21 mins. Hmm.
+  Std dev 10+100 1hr + inversions
+  ROD 022325 T2R1
+  HP5@800 1+25 Rodianl, ~9 mins
 
-HC110b 092524 T2R1,2 450 ml 6 mins 
+ROD 021625 T1R1 
+  HP5 @ 1600, sureshot tele 80 
 
-HC110B 11/6/24 T1 R1,2
-  1 D100 Oly XA (Kentmere pan 100???) 6 min
-  2 D100 spotmatic w/ bad meter
+Xtol 021525 T1R1
+  Gordi HP5 @ box
+  Test roll in F3, Gordi's house dev
 
-ROD (1+50) 110624 T2 R1,2 11 min
-  1 HP5 (ujin) 
-  2 APX 100 folder
+ROD 020325 T1R1-3
+  38ml
+  Ujin S3 test #2 HP5+ @ 1600
+  APX 400 - Ikonta?
+  Canon A2E HP5+ @ 1600
+  Rodinal 1+25, 950mL?
+
+ROD 020325 T2 Sheets
+  2.2 oz
+  HP5+ @ 1600 & Plus X 60 years old (Yankee tank)
+
+ROD 020125 T1R1,2
+  1+25, 12 mins (@1600) steel tank
+  Skotter Nikon S 5cm 1.4, HP5@ 1600 
+  Other 1600 iso roll? 
+  Depleted ECO fix
+
+FPP 020125 T2C01R1
+  Fresh FPP chems, weird spots on film + drag. 
+  My theory is chems weren't mixed well enough, if it is attributable to Dev. 
+  Used old cinestill BLIX from like 3+ mos ago
+
+ROD 012625 T1R1-4
+  44oz H2O 1.76oz Rodinal 
+  9 min fix in ~8% diluted & old fixer
+
+CS6 122124 C07T1R1
+  42 degrees. Pre-mixed developer & left thermometer in working solution beaker in H2O tempered bath. 
+  11:45 mins. Constant back & Forth agitation, no spin. Looks pretty damn good. 
+
+CS6 120124 C02T1R1
+  Tim's & Whidbey. Proper agitation this time, 1+1
+  Temp may have been too low
+
+CS6 120124 C03T2R1-4
+  Temp better. proper agitation. 2 ujin's 2 mine
 
 HC110H 112424 T1R1 8 min
   Ujin HP5+ fujica howloween @ 200
@@ -68,90 +106,52 @@ CS6 112424 C01T1R1,R2
   166ml stock, 333ml H20 11 mins
   get working solution to temp. Bath temp @ 41 degrees
 
-CS6 120124 C02T1R1
-  Tim's & Whidbey. Proper agitation this time, 1+1
-  Temp may have been too low
+HC110B 11/6/24 T1 R1,2
+  1 D100 Oly XA (Kentmere pan 100???) 6 min
+  2 D100 spotmatic w/ bad meter
 
-CS6 120124 C03T2R1-4
-  Temp better. proper agitation. 2 ujin's 2 mine
+ROD (1+50) 110624 T2 R1,2 11 min
+  1 HP5 (ujin) 
+  2 APX 100 folder
 
-CS6 122124 C07T1R1
-  42 degrees. Pre-mixed developer & left thermometer in working solution beaker in H2O tempered bath. 
-  11:45 mins. Constant back & Forth agitation, no spin. Looks pretty damn good. 
+HC110b 092524 T1 4x5 5 min 560ml
 
-ROD 012625 T1R1-4
-  44oz H2O 1.76oz Rodinal 
-  9 min fix in ~8% diluted & old fixer
+HC110b 092524 T2R1,2 450 ml 6 mins 
 
-ROD 020125 T1R1,2
-  1+25, 12 mins (@1600) steel tank
-  Skotter Nikon S 5cm 1.4, HP5@ 1600 
-  Other 1600 iso roll? 
-  Depleted ECO fix
+HC110b 090924 T1R1,2
+  6 min, Skunk K100 roll, Canon FTb Lucas Racc
 
-FPP 020125 T2C01R1
-  Fresh FPP chems, weird spots on film + drag. 
-  My theory is chems weren't mixed well enough, if it is attributable to Dev. 
-  Used old cinestill BLIX from like 3+ mos ago
+HC110b 082924 T2R1  
+  6min dev, 266ml + 8.6ml
+  22 degrees 2013 HC110 old, cylinder, not syringe
+  
+CS41 082924 T1C27R1-3
+  2x fujicolor 400 5.39 min
+  1x CS400 ~5min 22 seconds
 
-ROD 020325 T1R1-3
-  38ml
-  Ujin S3 test #2 HP5+ @ 1600
-  APX 400 - Ikonta?
-  Canon A2E HP5+ @ 1600
-  Rodinal 1+25, 950mL?
+CS41 082624 T1C25R1,R2 2.75min x 1.50
+  Phoenix shot @ 100 4.125 min
+  Fujicolor 400 @ 200 ~4 min 78 seconds
 
-ROD 020325 T2 Sheets
-  2.2 oz
-  HP5+ @ 1600 & Plus X 60 years old (Yankee tank)
+CS41 0821(2)24 T1C22R1-3
+  Toxi rolls: 
+  Kodacolor exp 1978
+  Konica Minolta rollAgfa roll from Yakima TSC
+  Room temp stand dev, 50 min x 1.44=36 min agitate 36 min
 
-Xtol 021525 T1R1
-  Gordi HP5 @ box
-  Test roll in F3, Gordi's house dev
+CS41 081924 T1C19R1-3
+  Knabe roll & Ikonta (focused) Noah b-day  
+  gold 200, Big 4 ice caves, Canon A2E
+  3.5x1.38=4min47~ seconds
+  stick agitation
 
-ROD 021625 T1R1 
-  HP5 @ 1600, sureshot tele 80 
+CS41 081124 T4C16R1-3 CFT XA , Hiyu, steel tank 
+  4.62 min
 
-ROD 022325 T1R1 
-  Ortho 80 @ 800
-  Autumn's recc, HC110B 68 degrees f 13 min
-  Stock time 6 mins, user submmitted time 8 min
-  Rodinal 1+25 7 min x 3 = 21 mins. Hmm.
-  Std dev 10+100 1hr + inversions
-  ROD 022325 T2R1
-  HP5@800 1+25 Rodianl, ~9 mins
+CS41 081124 T3C14R1-2 white tape tank 4.48 min
+  ujin roll
+  knabe roll
 
-HC110B 030125 T1R1
-  HP5+ @ cc's pronto's point & shoot 
-  6 min 30 seconds; Ilfotec HC times, not Kodak (which I)
-
-New CS6 Chems; last batch mixed 14 weeks ago. 
-Dynamic slide chems from the dude who sold me the V800, unknown date. When mixed, turned dark abmer. 
-Re-using old (14wk reversal bath (C08), against reccs of instructions (6-12 wk)
-
-CS6 030425 C01T1R1,2
-  Flicfilm Chrome, Phoenix @ ~125
-  Will leave it in Dev & Reversal bath for slightly too long. 
-  1+2 first dev
-
-CS6 030425 C03T1R1,2
-  Ujin's Velvia that I gave & E100. 
-  Will decide on dynamic dev & reversal confidence once I see results of first rolls
-    A) Very dark E100. TOo dilute or old chems? Phoenix was a waste. 
-
-CS6 030625 C05Rev13T1R1
-  (Bath) temp @ 44 degrees, Dev ~30 seconds more than 9:15. Reversal @ 10 mins. Blix @10 mins
-
-Out of CS6 chems (1st dev) mixing new chems 3/24/25
-# all new chems
-CS6 032725 C01T1R1,2
-  expired & badly stored e100 from skunk
-  fresh flicfilm respool 
-  44.5 degree bath. Agitation IN BATH constant
-
-CS6 040725 C03T1R1,2
-  old fuji velvia, mine and toxi's
-  1+3 dilution, 13.5 min, ag in bath, 44 degrees
-
-ROD 040825 T1R1,2 hp5 at 1600. 1+25 12 mins
-
+CS41 081124 T2C11R1-3 4.27 mins
+  Ujin rolls (2)
+  me @ cft
