@@ -1,5 +1,8 @@
 # devlog
 
+HC110a 050225 T2R1
+  hp5 old ei 160, 1+15, 18°C 3min15sec 
+
 ROD 050225 T1R1
   Shid 400 exposed at 1600. 1:25 15 mins
 
