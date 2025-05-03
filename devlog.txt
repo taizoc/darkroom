@@ -1,5 +1,8 @@
 # devlog
 
+ROD 050225 T1R1
+  Shid 400 exposed at 1600. 1:25 15 mins
+
 ROD 041325 T1R1-3
   Stand dev slightly stronger for the mixed roll Arista 100. 13ml Rodinal up to 900mL H2O
   Kirin Arista 100 Ultra ~100-400 
