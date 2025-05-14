@@ -1,6 +1,6 @@
 # devlog
 
-OMD 051325 R1-4
+OmD 051325 R1-4
   Atlanta rolls
   1) CS800T@800 Canon Sure Shot 80 Tele FWA2501
   2) CS800T@800 Nikon F3 FWA2502
