@@ -1,5 +1,9 @@
 # devlog
 
+ROD 052625 R1-3 1+25 9 mins ~20c
+  2x P33, 1 double exposed on accident
+  1x HP5+ @ 800 double exposed, frame 26+ liom
+
 HC110b 051725 R1,2
   Proot rolls D100 and HP5+
   6 mins 20 degrees
