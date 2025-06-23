@@ -1,5 +1,8 @@
 # devlog
 
+ROD 062225 R1
+  HP5@800 1+25 Rodinal, ~9 mins
+
 CS41 061825 R1-3 C7
   Portra 160 120, vixen 120, kodak 400 that i forget
   3.99 mins
@@ -100,7 +103,7 @@ ROD 022325 T1R1
   Rodinal 1+25 7 min x 3 = 21 mins. Hmm.
   Std dev 10+100 1hr + inversions
   ROD 022325 T2R1
-  HP5@800 1+25 Rodianl, ~9 mins
+  HP5@800 1+25 Rodinal, ~9 mins
 
 ROD 021625 T1R1 
   HP5 @ 1600, sureshot tele 80 
