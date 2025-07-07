@@ -1,4 +1,7 @@
 # devlog
+# Roll code:
+## Chemistry type, Date, Tank#, Chem usage (rolls, if applicable), Roll#
+# INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
 CS41 070625 T1 C20 R1
   tungsten with daylight to tungsten filter. 
