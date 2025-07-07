@@ -1,16 +1,16 @@
 # darkroom
-at-home development
+My at-home development. 
 
-paterson system tanks preferred for color and slide, steel tanks preferred for bw
+I prefer Paterson system tanks for color and slide, steel tanks for black and white.
 
-current developers
-bw
-adox rodinal (fresh)
-hc-110 (old formula)
-color
-CS41 color simplified
-CS6 dynamic chrome
+Current preferred developers:
+Black & White:
+Rodinal (ROD)
+Kodak HC-110 (HC110(d)ilution) (still have some bottles of the old formula)
+Color:
+CineStill C41 "color simplified" (CS41)
+CineStill E6 "dynamic chrome" (CS6)
 
-current scanners
-nikon coolscan v (135)
-epson precision v800 (all formats)
+Current scanners: 
+Nikon Coolscan V (135)
+Epson Perfection V800 (all formats)
