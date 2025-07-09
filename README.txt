@@ -18,4 +18,4 @@ Previously used chems:
 
 Current scanners: 
 -Nikon Coolscan V (135)
--Epson Perfection V800 (all formats, betterscanning.com ANR inserts for 135-4x5
+-Epson Perfection V800 (all formats, betterscanning.com ANR inserts for 135 through 4x5
