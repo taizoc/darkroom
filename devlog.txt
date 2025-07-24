@@ -8,6 +8,7 @@ HC110b
 CS41 072325 T4 C29 R1-3
   IDR WHO
   5.5 MINS
+  auto jiggler didn't engage for dev step, but they just came out a little thin :3
 
 CS41 072325 T3 C27 R1-2
   PUSH +1
