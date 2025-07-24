@@ -3,6 +3,24 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+HC110b 
+
+CS41 072325 T4 C29 R1-3
+  IDR WHO
+  5.5 MINS
+
+CS41 072325 T3 C27 R1-2
+  PUSH +1
+  7 MINS
+
+CS41 072325 T2 C24 R1-3
+  IDR WHO
+  5.18 MINS
+
+CS41 072325 T1 C21 R1-3
+  kirin rolls 1-3
+  4.97 MINS
+
 CS41 070625 T1 C20 R1
   tungsten with daylight to tungsten filter. 
   4.9 mins 
