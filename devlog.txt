@@ -3,7 +3,20 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-HC110b 
+ROD 072625 T4 R1-2
+  hp5 at 3200
+  rod 1+25 18 mins
+
+ROD 072625 T3 R1-2
+  cronar mine and sables
+  rod 1+50 15.5 mins
+
+HC110b 072625 T2 R1-3
+  hp5 kfan, sable and kirin 620
+  6 min
+
+ROD 072625 T1 R1
+  pup stand dev mystery bw
 
 CS41 072325 T4 C29 R1-3
   IDR WHO
