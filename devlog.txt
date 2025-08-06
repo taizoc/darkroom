@@ -13,6 +13,7 @@ ROD 072625 T3 R1-2
 
 HC110b 072625 T2 R1-3
   hp5 kfan, sable and kirin 620
+  hp5 came out overprocessed due to combination :( sorry fanny pack
   6 min
 
 ROD 072625 T1 R1
