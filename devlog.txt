@@ -3,6 +3,9 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+ROD 080525 T2 R1
+  Ilford Pan F. I don't remember the settings. 
+
 ROD 080525 T1 R1-3?
   Made an AWESOME mistake and forgot to label 1 of 3 HP5 120's, which one is a 3200 and which 2 are box. Going to process the 2 that I think that are box in. 1+50, 12 mins, plus one Ilford Pan F at 64. 
   rod 1+50 12 mins
