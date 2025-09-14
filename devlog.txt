@@ -3,6 +3,26 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 091325T5C16R1
+  4.62 mins
+  vixen rolls x1
+
+CS41 091325T4C13R1-3
+  4.41 mins
+  vixen rolls x2 and mine x1
+
+ROD 091325T3R1-3
+  1+25 6.5 mins 
+  me and hunter's hp5x2 aristapan 100 x1
+
+CS41 091325T2C12R1
+  4.34 mins
+  vixen roll 220 x1
+
+CS41 091325T1C09R1-3
+  4.13 mins
+  vixen rolls x3
+
 CS41 090725T2C08R1
   3.9 mins 
 
