@@ -44,11 +44,11 @@ ROD 072625 T4 R1-2
   rod 1+25 18 mins
 
 ROD 072625 T3 R1-2
-  cronar mine and sables
+  cronar mine and vixen's
   rod 1+50 15.5 mins
 
 HC110b 072625 T2 R1-3
-  hp5 kfan, sable and kirin 620
+  hp5 kfan, vixen and kirin 620
   hp5 came out overprocessed due to combination :( sorry fanny pack
   6 min
 
