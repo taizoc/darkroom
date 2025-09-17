@@ -3,6 +3,20 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 091625 T3C08R1-2
+  kirin rolls
+  4mins
+
+CS41 091625 T2C04R1-3
+  kirin rolls
+  3.78 mins
+
+CS41 091625 T1C01R1-3
+  kirin rolls
+  3.5 mins
+
+Kirin new chems 09/16/25 
+
 CS41 091325T5C16R1
   4.62 mins
   vixen rolls x1
