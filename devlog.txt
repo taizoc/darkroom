@@ -3,6 +3,16 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+HC110 092225 T3R1
+  4.25 mins 1+15 hp5@800
+
+ROD 092225 T2R1
+  1+25 6 mins
+
+CS41 092225 T1C10R1-3 
+  4.2 mins dev
+  otter rolls, 1 mine
+
 CS41 091625 T3C08R1-2
   kirin rolls
   4mins
