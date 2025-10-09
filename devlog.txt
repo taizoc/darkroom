@@ -3,6 +3,22 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 100825 T4C20R1-3
+  kirin x3
+  4.9 mins
+
+CS41 100825 T3C17R1-3 
+  one liom 2 kirin 135
+  4.7 mins
+
+CS41 100825 T2C15R1-2
+  kirin rolls 
+  4.5 mins
+
+CS41 100825 T1C14R1
+  honey badger house and coyote on capitol hill gw690 old portra 400 (high base fog, exposure not great)
+  4.5 mins
+
 HC110a 092725 T1R1
   1+15 9.5 mins
   end of one of the old formula bottles, rinsed it out for the crystals for final mix of 1+15 (dilution a) so may be over developing. we'll see. 
