@@ -3,6 +3,14 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+cs41 102225 t2c29r1
+  1x gold 200 gw 690
+
+cs41 102225 t1c24r1-4
+  steel tank, i guess :skull:
+  1x kodacolor 200, 1x ektapress 100 @ 25, 1x walmart fujicolor superia 400 @ 25, 1x kirkland 400 @ 25 
+  5.18 mins
+
 CS41 100825 T4C20R1-3
   kirin x3
   4.9 mins
