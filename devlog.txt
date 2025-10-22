@@ -5,6 +5,7 @@
 
 cs41 102225 t2c29r1
   1x gold 200 gw 690
+  5.25 mins
 
 cs41 102225 t1c24r1-4
   steel tank, i guess :skull:
