@@ -3,6 +3,12 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+ROD 110225 T2S1-6 i90 day trip shoot underdeveloped yankee tank >:(
+  
+
+ROD 110225 t1s1-6 engagement party photoshoot
+  sp 645 tank. was it 10-12 mins? hp5+ at 1600
+
 cs41 102225 t2c29r1
   1x gold 200 gw 690
   5.25 mins
