@@ -3,6 +3,9 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 110525 t1c30r1,2
+  engagement party shoot color, gw roll
+
 ROD 110225 T2S1-6 i90 day trip shoot underdeveloped yankee tank >:(
   
 
