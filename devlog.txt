@@ -3,6 +3,9 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 110925 t1c32s1-3
+  dev: 5min 45sec. exposure test of vps 4106, exp 1994. exposures at ISO 12, 25, 50
+
 CS41 110525 t1c30r1,2
   engagement party shoot color, gw roll
   5.6 mins
