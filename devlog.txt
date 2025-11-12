@@ -3,6 +3,9 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+CS41 111125 t1c33s1-5
+  dev 5.81 mins. Kodak VPS 4106, exp 1994. soligor'd ISO 12 visiting hubbard animals
+
 CS41 110925 t1c32s1-3
   dev: 5min 45sec. exposure test of vps 4106, exp 1994. exposures at ISO 12, 25, 50
 
