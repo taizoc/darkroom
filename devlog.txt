@@ -3,8 +3,8 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-ROD 111325 t1r1-2
-  dev 6.5 mins, 1+25 rodinal. One SHD 100 and one Fuji ACROS II at box. 
+ROD 111325 t1r1-3
+  dev 6.5 mins, 1+25 rodinal. One SHD 100, one SHD400 and one Fuji ACROS II 120 at box. 
 
 CS41 111125 t1c33s1-5
   dev 5.81 mins. Kodak VPS 4106, exp 1994. soligor'd ISO 12 visiting hubbard animals
