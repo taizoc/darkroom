@@ -3,6 +3,9 @@
 ## Chemistry type, Date, Tank#, Chem usage (roll count, if applicable), Roll#
 # INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+HC110a 112025 t1r1-2
+  dev 9.5 mins 1+15. 
+
 ROD 111325 t1r1-3
   dev 6.5 mins, 1+25 rodinal. One SHD 100, one SHD400 and one Fuji ACROS II 120 at box. 
 
