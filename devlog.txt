@@ -3,6 +3,10 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+ROD 121725 t1r1-2 
+  hp5 at 1600 gw690, ilford delta 3200 pro in stylus epic zoom 80
+  12 mins 1+25 20 deg
+
 HC110a 112025 t1r1-2
   dev 9.5 mins 1+15. 
 
