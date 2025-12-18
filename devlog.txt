@@ -3,6 +3,10 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+HC110h 121825 t1s1-6
+  hp5 at 3200 sinar f with skotterlenses. 
+  40 mins semi-stand 60 seconds ag, then 5-10 mins ag. 
+
 ROD 121725 t1r1-2 
   hp5 at 1600 gw690, ilford delta 3200 pro in stylus epic zoom 80
   12 mins 1+25 20 deg
