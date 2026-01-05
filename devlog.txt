@@ -3,7 +3,20 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-HC110h 121825 t1s1-6
+CS41-1-426T2C03R1-2
+  color 120 rolls that were sitting on my flatbed for a month!
+  3.7 mins dev, tall tank
+
+CS41010426T1C01R1-2
+  color 135 rolls that were sitting on my flatbed for a month!
+  3.5 mins dev, double 135 tank 
+
+New color chems 01/04/25. burning smell when I finish mixing chems? wth...
+
+ROD 122925T1R1,2
+  lion shid 100 at 200, my 400 tmy at 1000. iirc ROD 1+25 at 11 min. fetch pics
+
+LOST  HC110h 121825 t1s1-6
   hp5 at 3200 sinar f with skotterlenses. slabtown scamper winter 25
   40 mins semi-stand 60 seconds ag, then 5-10 mins ag. 
 
