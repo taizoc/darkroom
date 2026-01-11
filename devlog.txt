@@ -3,7 +3,11 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-CS41-1-426T2C03R1-2
+CS41 011126T1C05R1-2
+  Coyote color 200, chromagenic bw stinky 
+  3.85 mins dev, 500ml tank
+
+CS41 010426T2C03R1-2
   color 120 rolls that were sitting on my flatbed for a month!
   3.7 mins dev, tall tank
 
