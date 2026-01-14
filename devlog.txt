@@ -3,6 +3,24 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
+ROD 011326 T5 R1-4 
+
+CS41 011326 T4 C12 R1-3
+  Fast wolp 3x 400 fuji 
+  4 mins 20 seconds
+
+CS41 011326 T3 C10 R1-2
+  Bobcar rolls color 135 phoenix new, kodacolor 200
+  4 min 12 seconds
+
+CS41 011326 T2C08 R1-2
+  Bobcar rolls color gold 120 at box 
+  4 min 5 seconds
+
+CS41 011326 T1C07 R1
+  Bobcar rolls color, push 1 stop gold 120 
+  4.55 mins base, 5 min 10 seconds
+
 CS41 011126T1C05R1-2
   Coyote color 200, chromagenic bw stinky 
   3.85 mins dev, 500ml tank
