@@ -3,7 +3,15 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-ROD 011326 T5 R1-4 
+## ROD 011326 T5 R1-4 
+
+CS41 012226 T2 C20 R1
+  old kodak 160, shot at 100
+  5 mins
+
+CS41 012226 T1 C16 R1-3
+  nikon p&s stinky film. ultramax fc. cinestill 800t @ 800 fc. 
+  5 mins or so
 
 CS41 011326 T4 C12 R1-3
   Fast wolp 3x 400 fuji 
