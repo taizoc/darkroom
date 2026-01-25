@@ -17,6 +17,8 @@ HC110h 012426 T1R1-3
   hp5+ 120 at 3200 x2, kentmere 400 135 at 1600. 
   idr where these were shot. sat for a long time. 
   38 mins, agitation 12 seconds every 7 mins. measured by volume
+    results are extremely thin. heavily underdeveloped. 
+    could be due to measuring HC by weight rather than liquid volume
 
 CS41 012226 T2 C20 R1
   old kodak 160, shot at 100
