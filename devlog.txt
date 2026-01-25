@@ -5,6 +5,19 @@
 
 ## ROD 011326 T5 R1-4 
 
+HC110b 012426 T3R1-2
+  hp5+ 120 at 1600 x2 idr where
+  11 mins 
+HC110b 012426 T2R1-2
+  hp5+ 135 at 1600 x2 idr where
+  11 mins 
+    1400ml between two tanks. 45ml hc, 1400
+
+HC110h 012426 T1R1-3
+  hp5+ 120 at 3200 x2, kentmere 400 135 at 1600. 
+  idr where these were shot. sat for a long time. 
+  38 mins, agitation 12 seconds every 7 mins. measured by volume
+
 CS41 012226 T2 C20 R1
   old kodak 160, shot at 100
   5 mins
