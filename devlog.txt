@@ -19,6 +19,7 @@ HC110h 012426 T1R1-3
   38 mins, agitation 12 seconds every 7 mins. measured by volume
     results are extremely thin. heavily underdeveloped. 
     could be due to measuring HC by weight rather than liquid volume
+    kentmere 400 turned out the best of these, tbh. 
 
 CS41 012226 T2 C20 R1
   old kodak 160, shot at 100
