@@ -5,6 +5,24 @@
 
 ## ROD 011326 T5 R1-4 
 
+1x k400 at 3200 
+
+ROD 022326 T4 R1-2 
+  2x hp5+ at 1600 
+  12 mins 1+25
+
+CS41 022326 T3 C24 R1-4 steel tank
+  4x c41 (portra160, 800, cinestill, fuji whatever) 3.5*1.48
+  5 mins 12 seconds
+
+CS41 022326 T2 C21 
+  2x +1 stop cs41 120, 135 gold 4.55 mins * 1.42
+  6.5 mins 
+
+ROD 022326 T1 R1-4 
+  4x tmax 400 at box 
+  1+25, 6 mins 950mL
+
 HC110b 012426 T3R1-2
   hp5+ 120 at 1600 x2 idr where
   11 mins 
