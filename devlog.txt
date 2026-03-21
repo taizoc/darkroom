@@ -9,6 +9,7 @@
 
 WDF 032026R1
   processed in lab on t15 
+  wfs winter 2026
 
 ROD 022326T4R1-2 
   2x hp5+ at 1600 
