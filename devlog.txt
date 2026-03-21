@@ -7,6 +7,10 @@
 
 1x k400 at 3200 
 
+CS41 032026T1C29R2,3,4
+  ECN2 films removing remjet with baking soda. 1l solution, i'll do 6tbsp baking soda (guessing) then rinsing until it runs clear. 
+  remjet remove, 5 mins 36 seconds dev, 8mins blix, 
+
 WDF 032026R1
   processed in lab on t15 
   wfs winter 2026
