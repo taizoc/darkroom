@@ -5,7 +5,9 @@
 
 ## ROD 011326 T5 R1-4 
 
-1x k400 at 3200 
+WDFBW 032726R1,2
+  HP5+ at box 
+  TMax100 at 800
 
 CS41 032026T1C29R2,3,4
   ECN2 films removing remjet with baking soda. 1l solution, i'll do 6tbsp baking soda (guessing) then rinsing until it runs clear. 
