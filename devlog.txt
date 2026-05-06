@@ -5,7 +5,17 @@
 
 ## ROD 011326 T5 R1-4 
 
+CS41 050526T3C14R1
+  1 one stop push color roll steel tank 275mL
+  5 min 48 seconds
 
+CS41 050526T2C12R1-2
+  2 color japan rolls (one blank :cryign) 
+  4 min 20 seconds
+
+CS41 050526T1C7R1-4 
+  steel tank japan color rolls 
+  4 mins
 
 CS41 050226 T2 C3 R1-3
   400 bottom, kodacolor middle, fuji200 top, all japan
