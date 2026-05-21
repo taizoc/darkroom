@@ -5,6 +5,16 @@
 
 ## ROD 011326 T5 R1-4 
 
+HP5 1600 x2           1+25 12min
+HP5 3200 x1           1+25 18+min
+APX400 800 x1         1+25 19min
+Kentmere400 1000 x1   1+25 12mins (extended from 800 at 9 mins)
+Kentmere400 400 x1    1+25 8mins 
+
+CS41 052026T1C15R1,2
+  1 bobcat 24 superia, one fuji 120 mine
+  4 min 33 seconds
+
 CS41 050526T3C14R1
   1 one stop push color roll steel tank 275mL
   5 min 48 seconds
