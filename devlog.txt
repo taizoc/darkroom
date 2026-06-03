@@ -9,7 +9,7 @@ HP5 3200 x1           1+25 18+min
 APX400 800 x1         1+25 19min
 Kentmere400 400 x1    1+25 8mins 
 
-WDF 052826 R1-3
+WDFBW 052826 R1-3
   Kentmere400 1000 x1   1+25 12mins (extended from 800 at 9 mins)
   HP5 1600 x2           1+25 12min
 
