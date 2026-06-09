@@ -9,9 +9,12 @@ HP5 3200 x1           1+25 18+min
 APX400 800 x1         1+25 19min
 Kentmere400 400 x1    1+25 8mins 
 
+Omega 042x26 R1
+  LVFC pics color fujicolor 200. looks thin. 
+
 WDFBW 052826 R1-3
-  Kentmere400 1000 x1   1+25 12mins (extended from 800 at 9 mins)
-  HP5 1600 x2           1+25 12min
+  Kentmere400 1000 x1 (extended from 800 at 9 mins)
+  HP5 1600 x2 1+25 12min
 
 CS41 052026T1C15R1,2
   1 bobcat 24 superia, one fuji 120 mine
