@@ -528,3 +528,82 @@ CS41 081124 T3C14R1-2 white tape tank 4.48 min
 CS41 081124 T2C11R1-3 4.27 mins
   Lion rolls (2)
   me @ cft
+
+HC110b 081124 T1R1-3
+  6 mins, steel tall tank
+  Skunkle roll K100, 545 official timing
+  Lion roll x2
+
+HC110gSTD 073124 T2R1
+  34 mins 1:119 HC110 stand dev
+
+HC110g 073124 T1R1-2
+  24 mins, ag every 2 mins
+
+CS41 072824 T1C09R1-2
+  120 kodak 200 gold
+  2 reel paterson 3x135 4min 10seconds
+
+CS41 072824 T1C08R1
+  2 reel paterson 3x135 4m10s
+
+CS41 072624 T4C06R1-2
+  Lion loaded 2 reel paterson 3.92 min black tape 
+  forgot to start timer in blix
+
+CS41 072624 T3C04R1-2
+  Skunkle loaded 
+  2 reel paterson 3.78mins white tape
+
+CS41 072624 T2C01R1-3 
+  Me loaded
+  3 reel paterson 3.5 mins
+
+New chemistry 072624
+
+CS41 STD 072624 T1C19R1-3
+  CS41 stand dev. Killing last of previous chems
+  30 min, ag, 30 min room temp
+
+HC110b 072324 T2R1
+  Panatomic X, 5 min
+
+HC110b 072324 T1R1-2
+  Foma 200 @400, 7min 450ml
+
+CS41 071424 T3C17 R1-2
+  fujicolor 400 x2 4.69 min
+  2 washes 
+
+CS41 071424 T2C15R1-2
+  fujicolor 400 x2 2 washes leaving one of these to dry for longer
+
+CS41 071424 T1C12R1-3
+  3x 135 paterson tank 4.34 min
+  lomochrome metro, fuji400 x2
+
+ROD  062924 T1R1
+  Rodinal 1+25 9 min 275ml = 11ml rodinal 264ml h2o 3 mins fix
+
+HC110b 062424 T6R1-2
+  Foma 200 @ box 
+  forgot to stir dev correctly 
+  occasional accidental over agitation
+
+CS41 062424 T5C10R1-2
+  steel tank vixen chromagenic bw 400 and kodak 200 4.2min
+
+CS41 062424 T4C08R1
+  Vixen 400vxsuper konica 4.176min
+
+CS41 062424 T3C06R1-2
+  tape on tank. 3.92 min
+
+CS41 062424 T2C04R1-2
+  my fujicolor 400 black tape 3.78 min
+
+CS41 062424 T1C01R1-3
+  Vixen aurora 800, kodak 400, cinestill 400d
+
+062424 fresh cs41 chems (12 rolls in 1 night)
+
