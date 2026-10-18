@@ -3,11 +3,19 @@
 ## Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 ## INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-## ROD 011326 T5 R1-4 
+HC110a 101726 T2 R1-2 
+  HP5 135 3200
+  HP5 120 3200
 
-HP5 3200 x1           1+25 18+min
-APX400 800 x1         1+25 19min
-Kentmere400 400 x1    1+25 8mins 
+HC110a 101726 T1 R1-4
+  Kentmere 1600 mine
+  APX 800 mine
+  HP5 1600 x2 mine and lioms
+
+## ROD 011326 T5 R1-4 
+# HP5 3200 x1           1+25 18+min
+# APX400 800 x1         1+25 19min
+# Kentmere400 400 x1    1+25 8mins 
 
 WDFC 080626 R1 
   Turquoise bear visit V50
