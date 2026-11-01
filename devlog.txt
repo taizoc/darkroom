@@ -3,16 +3,20 @@
 # - Chem type, Date, Tank#, Chem usage (roll/sheet count, if applicable), Roll#
 # - INCLUDE FILM STOCK AND FRIENDLY ROLL INFO
 
-CS41 110126 T2C3R1-4
-steel tank 4x135 3min 42 seconds
+CS41 110126 T3C07R1-3
+steel tank 3x135 4min
+  lomo metro, fuji 200, portra 800
+
+CS41 110126 T2C05R1-2
+tall paterson, 3 min 40 seconds (slightly under)
+  Ektar 120 (june 13-26) lion
+  Ektar 135 mine
+
+CS41 110126 T1C01R1-4
+steel tank 4x135 3min 30 seconds
   x2 Superia 400 24 extra old lion
   Ektar 100 lion 
   Gold 200 135 lion
-
-CS41 110126 T1C1R1-2
-tall paterson, 3.5 min
-  Ektar 120 (june 13-26) lion
-  Ektar 135 mine
 
 New color chems 110126 cinestill cs41 
 
